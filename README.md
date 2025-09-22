@@ -1,6 +1,6 @@
 📌 Description
 
-User-Management-API-Java-Spring-Boot is a simple RESTful API built with Java 17, Spring Boot, and JPA/Hibernate for managing user data.
+User-Management-API-Java-Spring-Boot is a simple RESTful API built with Java 23, Spring Boot, and JPA/Hibernate for managing user data.
 It provides basic CRUD (Create, Read, Update, Delete) operations using an in-memory H2 database by default.
 
 ✨ Features
