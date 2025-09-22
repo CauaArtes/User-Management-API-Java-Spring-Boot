@@ -31,7 +31,7 @@ It provides basic CRUD (Create, Read, Update, Delete) operations using an in-mem
 
 1 - Clone this repository:
 
-  git clone https://github.com/your-username/User-Management-API-Java-Spring-Boot.git
+  git clone https://github.com/CauaArtes/User-Management-API-Java-Spring-Boot.git
 
 
 2 - Run the application (from your IDE or with Maven/Gradle).
